@@ -1,2 +1,7 @@
-# Order-summary-component
-My First challenge on Frontend Mentor.
+# Fronend Mentor challenge - Order Sammary Component
+
+![Design Preview](./design/design-preview.png)
+
+# welcome 
+
+# My First HTML & CSS Design
